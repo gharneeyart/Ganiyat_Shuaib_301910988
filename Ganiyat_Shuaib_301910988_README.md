@@ -5,7 +5,7 @@ Name: Ganiyat Shuaib
 Student ID: 301910988
 
 ## Case study
-Library Management System
+Bank / Fintech Platform 
 
 
 ## Portfolio folders
